@@ -1,0 +1,13 @@
+{
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/env/lib/python3.13/site-packages"
+    ],
+    "python.REPL.enableREPLSmartSend": false,
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/env/lib/python3.13/site-packages"
+    ],
+    "python.autoComplete.extraPaths": [
+        "${workspaceFolder}/env/lib/python3.13/site-packages"
+    ],
+    "python.analysis.autoImportCompletions": true
+}
