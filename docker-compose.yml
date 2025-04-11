@@ -1,0 +1,9 @@
+services:
+  streamlit:
+    container_name: "Metereologia-ifc"
+    build:
+      dockerfile: Dockerfile
+      context: ./
+
+    ports:
+      - "8501:8501"
